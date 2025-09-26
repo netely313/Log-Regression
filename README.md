@@ -27,9 +27,10 @@ Some categorical variables are unbalanced (e.g., diabetes, stroke). Missing valu
 
 ## 🛠️📈 Data Processing, Results & Visualizations
 
-The link for the .ipynb file : [Add  Link Here]
+The link for the .ipynb file : [[Add  Link Here](https://github.com/netely313/Log-Regression/blob/main/Logistics_Regression_Prediction_CHD.ipynb)]
 
 ---
+
 
 
 
